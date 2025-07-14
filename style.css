@@ -43,7 +43,9 @@ Tags:     agency, business, consulting, corporate, cyber security, finance, it a
 /*=====================================
 <-- 01. solutek Nav Menu Area Css -->
 =======================================*/
-
+.imagecss12{
+  border-radius: 24px;
+}
 .solutek_nav_manu {
   padding: 35px 39px 0;
 }
